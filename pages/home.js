@@ -21,6 +21,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <nav></nav>
       <section className={utilStyles.headingMd}>
         <p>Hello, I am a Full Stack Developer. You can contact me at my <a href='https://www.linkedin.com/in/lucas-freigenberg-539338134/'>LinkedIn</a></p>
         <p>
